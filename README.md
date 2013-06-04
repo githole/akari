@@ -2,7 +2,7 @@ akari
 =====
 
 "akari" is a pysically based renderer based on path tracing.  
-In Japanese, the word "akari" means "a light" or one of the cutest girl in Manga.
+In Japanese, the word "akari" means "a light source" or one of the cutest girl in Manga.
 
 
 <pre>
