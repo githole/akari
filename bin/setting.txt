@@ -1,0 +1,49 @@
+scene scene.txt
+ibl rnl_probe_high.hdr
+aperture aperture.hdr
+depth_max_ 32
+
+num_threads 10
+
+width 1280
+height 720
+display_gamma 2.0
+
+direct_light_samples    8
+indirect_light_samples  8
+
+iteration_num 300
+sample_per_pixel_per_iteration 4
+
+camera_position_x 50
+camera_position_y 80
+camera_position_z 290
+camera_dir_x 0.0
+camera_dir_y -0.242536
+camera_dir_z -0.970142
+camera_up_x 0.0
+camera_up_y 1.0
+camera_up_z 0.0
+screen_width 1.778
+screen_height 1.0
+screen_dist 1.0
+
+lens_param_a 0.95
+lens_param_b 1.5
+lens_radius 5.0
+focal_distance 240.0
+blur_depth_threashold 32.0
+blur_total_samples_coeff 256.0
+blur_max_radius 4
+fstop 1.4
+vignetting_value 0.7
+
+tone_curve_input_r 191
+tone_curve_input_g 191
+tone_curve_input_b 128
+
+tone_curve_output_r 195
+tone_curve_output_g 194
+tone_curve_output_b 128
+
+output_interval 60.0
