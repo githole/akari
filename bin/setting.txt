@@ -3,7 +3,7 @@ ibl rnl_probe_high.hdr
 aperture aperture.hdr
 depth_max_ 32
 
-num_threads 10
+num_threads 8
 
 width 1280
 height 720
