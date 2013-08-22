@@ -1,5 +1,6 @@
-ìŽÒ–¼Fhole
-ì•i–¼F‰Ä‚Ì—Ž‚Æ‚µ•¨
-ƒŒƒ“ƒ_ƒ‰–¼Fakari
-ì•iƒRƒ“ƒZƒvƒgFƒtƒHƒgƒŠƒAƒ‹`
-‹Zp“IƒAƒs[ƒ‹ƒ|ƒCƒ“ƒgFˆêlƒ[ƒNƒtƒ[‚ÌŠm—§
+
+ä½œè€…åï¼šhole
+ä½œå“åï¼šå¤ã®è½ã¨ã—ç‰©
+ãƒ¬ãƒ³ãƒ€ãƒ©åï¼šakari
+ä½œå“ã‚³ãƒ³ã‚»ãƒ—ãƒˆï¼šãƒ•ã‚©ãƒˆãƒªã‚¢ãƒ«ï½ž
+æŠ€è¡“çš„ã‚¢ãƒ”ãƒ¼ãƒ«ãƒã‚¤ãƒ³ãƒˆï¼šä¸€äººãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ã®ç¢ºç«‹
